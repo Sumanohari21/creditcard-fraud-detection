@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow>=2.13,<2.16
+tensorflow-cpu==2.13.0
 matplotlib
 seaborn
+
